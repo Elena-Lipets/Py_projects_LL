@@ -1,0 +1,3 @@
+Informatics: 20(l) 20(pr) -
+Physics: 30(l) 30(pr) 10(lab)
+Physical_culture: 5(l) 30(pr) -

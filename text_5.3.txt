@@ -1,0 +1,5 @@
+Goblin1 50000
+Goblin2 45000
+Goblin3 70000
+Goblin4 30000
+Goblin5 19000
